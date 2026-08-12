@@ -1,0 +1,10 @@
+---
+layout: page
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 3
+redirect: /assets/pdf/cv.pdf
+---
+
+If you reach this fallback page, [open the CV directly](/assets/pdf/cv.pdf).

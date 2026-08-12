@@ -1,0 +1,45 @@
+/*******************************************************************************
+ * Local site colors. This file intentionally overrides al-folio's variables.
+ ******************************************************************************/
+
+@use "sass:color";
+
+$red-color: #b42318 !default;
+$red-color-dark: #8a1c13 !default;
+$orange-color: #b85f00 !default;
+$blue-color: #345b73 !default;
+$blue-color-dark: #27475b !default;
+$cyan-color: #397a86 !default;
+$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+$green-color: #287a48 !default;
+$green-color-lime: #789331 !default;
+$green-color-dark: #1f663a !default;
+$green-color-light: #e5f2e8 !default;
+$green-color-bright: #2f9a61 !default;
+$purple-color: #345b73 !default;
+$light-purple-color: color.adjust($purple-color, $lightness: 25%);
+$pink-color: #a9476f !default;
+$pink-color-light: #f5e4eb !default;
+$yellow-color: #a47e00 !default;
+
+$grey-color: #6f7780 !default;
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark: #20252a;
+$grey-900: #212529;
+
+$white-color: #ffffff !default;
+$black-color: #20252a !default;
+
+$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-dark: #2c3237 !default;
+
+$fa-font-path: "../webfonts";
+
+$back-to-top-z-index: 10;
+$back-to-top-bottom: 30px;
+$back-to-top-right: 30px;
+$back-to-top-diameter: 40px;
+$back-to-top-height: $back-to-top-diameter;
+$back-to-top-width: $back-to-top-diameter;
+
+$max-content-width: 880px !default;
