@@ -2,7 +2,7 @@
 
 - **Home-page text:** edit `_pages/about.md`.
 - **Profile photo:** replace `assets/img/profile.jpg` with a portrait using the same filename. A roughly 4:5 portrait crop works well.
-- **Publications:** add BibTeX entries to `_bibliography/papers.bib`. Use `pdf`, `arxiv`, `html` (journal or conference page), `code`, `abstract`, and `bibtex_show = {true}` only when those items exist. The page groups entries by year, newest first.
+- **Publications:** add BibTeX entries to `_bibliography/papers.bib`. Set `status = {work_in_progress}` or `status = {published}` to choose the section. Use `pdf`, `arxiv`, `html` (journal or conference page), `code`, `abstract`, and `bibtex_show = {true}` only when those items exist.
 - **News:** add a Markdown file in `_news/` named `YYYY-MM-DD-short-title.md` with `layout: post`, a `date`, and `inline: true` in its header, followed by the news text. The section may remain empty.
 - **CV:** replace `assets/pdf/cv.pdf`. The navigation link already points to this filename.
 - **Main settings:** edit `_config.yml` for your name, website URL, description, and layout settings.

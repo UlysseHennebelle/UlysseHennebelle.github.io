@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: Research interests in operations research and theoretical computer science.
-nav: true
+nav: false
 nav_order: 2
 ---
 

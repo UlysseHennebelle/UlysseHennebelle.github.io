@@ -169,6 +169,9 @@ GEM
       jekyll (~> 4.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-toc (0.19.0)
+      jekyll (>= 3.9)
+      nokogiri (~> 1.12)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.13.0)
@@ -291,6 +294,7 @@ DEPENDENCIES
   jekyll-scholar
   jekyll-sitemap
   jekyll-terser!
+  jekyll-toc
   jemoji
   observer
 
@@ -356,6 +360,7 @@ CHECKSUMS
   jekyll-scholar (7.3.0) sha256=d912e60aa5ab342fb4322772f02674152e2799375612a2aa5f9b2228728fd09b
   jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218
   jekyll-terser (0.2.3)
+  jekyll-toc (0.19.0) sha256=8a8270f7e8e3d849e2035710b1713d0af5e2185a4bfaca70f9192ecf5ac50668
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   jemoji (0.13.0) sha256=5d4c3e8e2cbbb2b73997c31294f6f70c94e4d4fade039373e86835bcf5529e7c
   json (2.19.9) sha256=9b9025b7cdddafa38d316eca0b2358488e42d417045c1b90d216a9fefe46b79a

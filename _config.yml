@@ -254,6 +254,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-terser
+  - jekyll-toc
   - jemoji
 
   # al-folio plugins

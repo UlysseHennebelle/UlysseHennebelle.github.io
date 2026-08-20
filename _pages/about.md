@@ -23,6 +23,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Operations Research at Cornell Tech and Cornell University.
+I am a third-year PhD student in Operations Research at Cornell Tech advised by [Omar El Housni](https://elhousni.orie.cornell.edu/). I graduated from [École polytechnique](https://www.polytechnique.edu/) with a MS and BS.
 
-My work is broadly in operations research and theoretical computer science, with interests in optimization and online and stochastic decision making. **TODO:** Add one sentence describing the questions that currently motivate your research.
+My work is broadly in online decision-making, optimization under uncertainty, approximation algorithms, and assortment optimization.
