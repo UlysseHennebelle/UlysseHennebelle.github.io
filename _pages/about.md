@@ -25,4 +25,6 @@ latest_posts:
 
 I am a third-year PhD student in Operations Research at Cornell Tech advised by [Omar El Housni](https://elhousni.orie.cornell.edu/). I graduated from [École polytechnique](https://www.polytechnique.edu/) with a MS and BS.
 
-My work is broadly in online decision-making, optimization under uncertainty, approximation algorithms, and assortment optimization.
+My work concerns online decision-making, optimization under uncertainty, approximation algorithms, and assortment optimization.
+
+Feel free to reach out to me at uh34 at cornell dot edu.
