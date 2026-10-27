@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Work in progress and published papers.
 nav: true
 nav_order: 1
 ---
@@ -15,12 +14,12 @@ nav_order: 1
 
 <div class="publications">
 
-<h2>Work in Progress</h2>
-
-{% bibliography --group_by none --query @*[status=work_in_progress] %}
-
 <h2>Published</h2>
 
 {% bibliography --group_by none --query @*[status=published] %}
+
+<h2>Working Papers</h2>
+
+{% bibliography --group_by none --query @*[status=work_in_progress] %}
 
 </div>

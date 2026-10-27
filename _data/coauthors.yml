@@ -1,1 +1,19 @@
-{}
+"housni":
+  - firstname: ["Omar El", "O. E."]
+    url: https://elhousni.orie.cornell.edu/
+
+"torrico":
+  - firstname: ["Alfredo", "A."]
+    url: https://sites.google.com/view/atorrico
+
+"de azevedo":
+  - firstname: ["Gabriel", "G."]
+    url: https://gabrielmazevedo.com/
+
+"doerr":
+  - firstname: ["Benjamin", "B."]
+    url: https://www.lix.polytechnique.fr/~doerr/
+
+"will":
+  - firstname: ["Sebastian", "S."]
+    url: https://www.lix.polytechnique.fr/~will/
